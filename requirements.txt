@@ -1,0 +1,6 @@
+ffmpeg
+numpy
+torch
+torchvision
+simplejson
+# av
